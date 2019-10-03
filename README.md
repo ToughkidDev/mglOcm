@@ -39,21 +39,19 @@ mglOcm bublbobl.rom
 
 ...And more some command line options are as below.
 
-/o = execute on Konami Classic Mapper
-/s =    on Konami-SCC Mapper
-/8 =    on Ascii-8 Mapper
-/f =    on Ascii16 Mapper
-/l =    on Linear  Mapper
-/r = execute with alternative method
-/t = Z80b 5.37MHz V9958 Fast mode
-/k = Konami 2nd Cartridge secret option
-/j = set Japanese keyboard layout
-/d = back to DOS after loading
-
+- /o = execute on Konami Classic Mapper
+- /s =    on Konami-SCC Mapper
+- /8 =    on Ascii-8 Mapper
+- /f =    on Ascii16 Mapper
+- /l =    on Linear  Mapper
+- /r = execute with alternative method
+- /t = Z80b 5.37MHz V9958 Fast mode
+- /k = Konami 2nd Cartridge secret option
+- /j = set Japanese keyboard layout
+- /d = back to DOS after loading
 
 REQUIREMENTS
 MSX-DOS2, KdL firmware of v3.1 and over.
-
 
 "mglOcm" is written by ToughkidCST
 
