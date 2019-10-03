@@ -24,51 +24,34 @@ and this executed megarom images perfectly.
 
 SPECIFICATIONS
 
-full MSX-DOS2 support
-
-Konami Mapper with SCC
-
-ASCII 8 kB Mapper
-
-ASCII 16 kB Mapper
-
-2 romimages load to OCM's internal memory slots.
+- full MSX-DOS2 support
+- Konami Mapper with SCC
+- ASCII 8 kB Mapper
+- ASCII 16 kB Mapper
+- 2 romimages load to OCM's internal memory slots.
 
 USAGE
-
 MSXDOS2 must be loaded to run mglOcm.com
 
 Examples:
-
 mglOcm gradius2.rom
-
 mglOcm bublbobl.rom
 
 ...And more some command line options are as below.
 
 /o = execute on Konami Classic Mapper
-
 /s =    on Konami-SCC Mapper
-
 /8 =    on Ascii-8 Mapper
-
 /f =    on Ascii16 Mapper
-
 /l =    on Linear  Mapper
-
 /r = execute with alternative method
-
 /t = Z80b 5.37MHz V9958 Fast mode
-
 /k = Konami 2nd Cartridge secret option
-
 /j = set Japanese keyboard layout
-
 /d = back to DOS after loading
 
 
 REQUIREMENTS
-
 MSX-DOS2, KdL firmware of v3.1 and over.
 
 
