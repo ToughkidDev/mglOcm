@@ -12,18 +12,17 @@ v2.0370b :
 
 ABOUT
 
-This is the loader application that support to execute megarom cartridge images
+- This is the loader application that support to execute megarom cartridge images
 like Konami-SCC, Ascii-8 and Ascii-16 all mappers for 1Chip-MSX(OCM).
 
-mglOcm is only for 1chip-MSX compatible loader which loads MSX-Rom image file
+- mglOcm is only for 1chip-MSX compatible loader which loads MSX-Rom image file
 needless to change any DIP switches and any mapper patches.
 
-This is possible because mglOcm use 1chipMSX's hardware mapper controller, if you using mglOcm in
+- This is possible because mglOcm use 1chipMSX's hardware mapper controller, if you using mglOcm in
 load to rom image will complete supports ASCII8 and ASCII16 mappers
 and this executed megarom images perfectly.
 
 SPECIFICATIONS
-
 - full MSX-DOS2 support
 - Konami Mapper with SCC
 - ASCII 8 kB Mapper
@@ -34,8 +33,8 @@ USAGE
 MSXDOS2 must be loaded to run mglOcm.com
 
 Examples:
-mglOcm gradius2.rom
-mglOcm bublbobl.rom
+- a:\roms> mglOcm gradius2.rom
+- a:\roms> mglOcm bublbobl.rom
 
 ...And more some command line options are as below.
 
@@ -51,9 +50,8 @@ mglOcm bublbobl.rom
 - /d = back to DOS after loading
 
 REQUIREMENTS
-MSX-DOS2, KdL firmware of v3.1 and over.
-
-"mglOcm" is written by ToughkidCST
+- MSX-DOS2, KdL firmware of v3.1 and over.
 
 CONTACT
-toughkiddev@gmail.com
+- "mglOcm" is written by ToughkidCST
+- toughkiddev@gmail.com
