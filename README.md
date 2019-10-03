@@ -23,40 +23,40 @@ load to rom image will complete supports ASCII8 and ASCII16 mappers
 and this executed megarom images perfectly.
 
 SPECIFICATIONS
-- full MSX-DOS2 support
-- Konami Mapper with SCC
-- ASCII 8 kB Mapper
-- ASCII 16 kB Mapper
-- 2 romimages load to OCM's internal memory slots.
+		- full MSX-DOS2 support
+		- Konami Mapper with SCC
+		- ASCII 8 kB Mapper
+		- ASCII 16 kB Mapper
+		- 2 romimages load to OCM's internal memory slots.
 
 USAGE
-- MSXDOS2 must be loaded to run mglOcm.com
-- Youtube Video Link 
-- https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
+		- MSXDOS2 must be loaded to run mglOcm.com
+		- Youtube Video Link 
+		- https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
 
 Examples:
-- a:\roms> mglOcm gradius2.rom
-- a:\roms> mglOcm bublbobl.rom
+		- a:\roms> mglOcm gradius2.rom
+		- a:\roms> mglOcm bublbobl.rom
 
 ...And more some command line options are as below.
 
-- /o = execute on Konami Classic Mapper
-- /s =    on Konami-SCC Mapper
-- /8 =    on Ascii-8 Mapper
-- /f =    on Ascii16 Mapper
-- /l =    on Linear  Mapper
-- /r = execute with alternative method
-- /t = Z80b 5.37MHz V9958 Fast mode
-- /k = Konami 2nd Cartridge secret option
-- /j = set Japanese keyboard layout
-- /d = back to DOS after loading
+		- /o = execute on Konami Classic Mapper
+		- /s =    on Konami-SCC Mapper
+		- /8 =    on Ascii-8 Mapper
+		- /f =    on Ascii16 Mapper
+		- /l =    on Linear  Mapper
+		- /r = execute with alternative method
+		- /t = Z80b 5.37MHz V9958 Fast mode
+		- /k = Konami 2nd Cartridge secret option
+		- /j = set Japanese keyboard layout
+		- /d = back to DOS after loading
 
 REQUIREMENTS
-- MSX-DOS2, KdL firmware of v3.1 and over.
+		- MSX-DOS2, KdL firmware of v3.1 and over.
 
 CONTACT
-- "mglOcm" is written by ToughkidCST
-- toughkiddev@gmail.com
+		- "mglOcm" is written by ToughkidCST
+		- toughkiddev@gmail.com
 
 
 
