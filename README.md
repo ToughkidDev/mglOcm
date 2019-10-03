@@ -31,6 +31,7 @@ SPECIFICATIONS
 
 USAGE
 - MSXDOS2 must be loaded to run mglOcm.com
+- Youtube Video Link - https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
 
 Examples:
 - a:\roms> mglOcm gradius2.rom
