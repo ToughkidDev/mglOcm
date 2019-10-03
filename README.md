@@ -30,7 +30,7 @@ SPECIFICATIONS
 - 2 romimages load to OCM's internal memory slots.
 
 USAGE
-MSXDOS2 must be loaded to run mglOcm.com
+- MSXDOS2 must be loaded to run mglOcm.com
 
 Examples:
 - a:\roms> mglOcm gradius2.rom
