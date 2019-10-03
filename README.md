@@ -62,4 +62,4 @@ MSX-DOS2, KdL firmware of v3.1 and over.
 "mglOcm" is written by ToughkidCST
 
 CONTACT
-toughkidcst@gmail.com
+toughkiddev@gmail.com
