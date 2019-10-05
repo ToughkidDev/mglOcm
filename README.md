@@ -2,11 +2,11 @@
 rom file loader for 1chipMSX(KdL firmware machine) 
 
 
-- mglOCM is a MSX ROM loader for the  "KdL firmware's OneChip MSX"
+- 'mglOcm' is a MSX ROM loader for the  "KdL firmware's OneChip MSX"
  that allows you to run msx rom cartridge images (like Konami-SCC, ASCII-8 and ASCII-16, 8, 16, 32k, linear rom files)
  on your device without setting any DIP switches or mapper patches.
 
-Rom Loader for 1Chip MSX - mglOCM v2.0370b (release date 2019/04/12)
+Rom Loader for 1Chip MSX - 'mglOcm' v2.0370b (release date 2019/04/12)
 
 v2.0370b :
 
@@ -15,10 +15,10 @@ ABOUT
 	- This is the loader application that support to execute megarom cartridge images
 	like Konami-SCC, Ascii-8 and Ascii-16 all mappers for 1Chip-MSX(OCM).
 
-	- mglOcm is only for 1chip-MSX compatible loader which loads MSX-Rom image file
+	- 'mglOcm' is only for 1chip-MSX compatible loader which loads MSX-Rom image file
 	needless to change any DIP switches and any mapper patches.
 
-	- This is possible because mglOcm use 1chipMSX's hardware mapper controller, if you using mglOcm in
+	- This is possible because 'mglOcm' use 1chipMSX's hardware mapper controller, if you using 'mglOcm' in
 	load to rom image will complete supports ASCII8 and ASCII16 mappers
 	and this executed megarom images perfectly.
 
@@ -36,7 +36,7 @@ USAGE
 		- MSXDOS2 must be loaded to run mglOcm.com
 		
  Youtube Video Link 
- https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
+ - https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
 
 
 Examples:
@@ -64,7 +64,7 @@ REQUIREMENTS
 
 CONTACT
 
-- "mglOcm" is written by ToughkidCST
+- 'mglOcm' is written by ToughkidCST
 - toughkiddev@gmail.com
 
 
@@ -81,11 +81,11 @@ Korean
 
 -  mgOCM은 2006년도에 발매된 1ChipMSX(이하 OCM)을 기반으로 만들어진 OCM전용 메가롬파일 실행기입니다. 
    
-   	1. mglOCM은 OCM을 전용으로 만들어진 최초의 메가롬파일 실행기로서 
+   	1. 'mglOcm'은 OCM을 전용으로 만들어진 최초의 메가롬파일 실행기로서 
 	   OCM및 그외 OCMC와, 재믹스네오등, OCM을 기반으로 만들어진 MSX와 모두 호환됩니다.
       	   OCM에 대한 자세한 내용은 http://en.wikipedia.org/wiki/1chipMSX 
 
-   	2. mglOCM의 특징 
+   	2. 'mglOcm'의 특징 
      	   지금까지 메가롬로더로 사용되고 있는 로더들은 일반 MSX규격의 하드웨어에서 
 	   범용적으로 실행될 수 있도록 만들어져 다양한 규격의 메가롬파일을 지원하는데 있어 한계를 보여 왔습니다. 
 	   실례로 일반적인 메가롬파일을 지원하는 일련의 하드웨어들, 
@@ -97,7 +97,7 @@ Korean
 	   사용자들의 불편함을 가중시켜  게임을 즐기는데 있어 
 	   접근성을 방해하는 요소로 작용했습니다. 
 
-   	3. mglOCM은 게임롬파일에 패치등의 변형을  가하지 않고, 
+   	3. 'mglOcm'은 게임롬파일에 패치등의 변형을  가하지 않고, 
   	   OCM에 내장된 하드웨어 매퍼를 사용하여, 게임롬파일의 실행 안정성을 극대화하고, 
   	   게임의 호환성을 확보했다는데에 그 의미가 있다고 하겠습니다.
   	   따라서 거의 대부분의 롬 게임은 그 어떤 파일의 변형 파괴나 OCM딥스위치의 변환없이 실행이 가능합니다. 
@@ -105,12 +105,12 @@ Korean
 - 사용방법     
   mglocm.com [filename.rom] /opts
 
-		mglOCM은 롬팩을 MSX에 삽입하듯,  사용하기 간단하게 만드는 것을 중요하게 생각하므로, 
+		'mglOcm'은 롬팩을 MSX에 삽입하듯,  사용하기 간단하게 만드는 것을 중요하게 생각하므로, 
 		수많은 옵션들을 피하고 게임실행에 필요한 최소한의 것들만 사용하도록 하였습니다. 
 
 		1. mglocm.com [filename.rom] 
-		   기본적인 사용방법은 도스프롬프트에서 mglocm과 파일이름을 입력하는 것 뿐입니다. 
-		   mglOcm은 실행되는 순간 짧은 시간을 통해 롬파일 방식을 파악하고 실행하도록 합니다. 
+		   기본적인 사용방법은 도스프롬프트에서 'mglOcm'과 파일이름을 입력하는 것 뿐입니다. 
+		   'mglOcm'은 실행되는 순간 짧은 시간을 통해 롬파일 방식을 파악하고 실행하도록 합니다. 
 		   전반적으로 이 방법은 대부분의 게임을 실행하는데에 문제가 없는 방법입니다. 
 
 			 예) mglocm gradius.rom  
@@ -188,7 +188,7 @@ Korean
 
 - 주의사항 
 	
-	 	1. mglOCM은 여러가지의 이유로 특정 상황을 지원하기 위해 
+	 	1. 'mglOcm'은 여러가지의 이유로 특정 상황을 지원하기 위해 
     		** 패치 변형된 롬파일에 대해서는 정상적인 실행을 보장하지 않습니다. 
    		원본 롬파일을 사용해 주시기 바랍니다. 
  
