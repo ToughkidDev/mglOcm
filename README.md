@@ -8,6 +8,7 @@ rom file loader for 1chipMSX(KdL firmware machine)
 	(like Konami-SCC, ASCII-8 and ASCII-16, 8, 16, 32k, linear rom files)
  	on your device without setting any DIP switches or mapper patches.
 
+### 1ChipMSX - IQ3000 
 ![1ChipMSX](mglOcm.jpg)
 
 
@@ -23,8 +24,8 @@ ABOUT
 	- 'mglOcm' is only for 1chip-MSX compatible loader which loads MSX-Rom image file
 	needless to change any DIP switches and any mapper patches.
 
-	- This is possible because 'mglOcm' use 1chipMSX's hardware mapper controller, if you using 'mglOcm' in
-	load to rom image will complete supports ASCII8 and ASCII16 mappers
+	- This is possible because 'mglOcm' use 1chipMSX's hardware mapper controller, 
+	if you using 'mglOcm' in load to rom image will complete supports ASCII8 and ASCII16 mappers
 	and this executed megarom images perfectly.
 
 
