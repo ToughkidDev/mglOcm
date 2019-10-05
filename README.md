@@ -12,15 +12,15 @@ v2.0370b :
 
 ABOUT
 
-- This is the loader application that support to execute megarom cartridge images
-like Konami-SCC, Ascii-8 and Ascii-16 all mappers for 1Chip-MSX(OCM).
+	- This is the loader application that support to execute megarom cartridge images
+	like Konami-SCC, Ascii-8 and Ascii-16 all mappers for 1Chip-MSX(OCM).
 
-- mglOcm is only for 1chip-MSX compatible loader which loads MSX-Rom image file
-needless to change any DIP switches and any mapper patches.
+	- mglOcm is only for 1chip-MSX compatible loader which loads MSX-Rom image file
+	needless to change any DIP switches and any mapper patches.
 
-- This is possible because mglOcm use 1chipMSX's hardware mapper controller, if you using mglOcm in
-load to rom image will complete supports ASCII8 and ASCII16 mappers
-and this executed megarom images perfectly.
+	- This is possible because mglOcm use 1chipMSX's hardware mapper controller, if you using mglOcm in
+	load to rom image will complete supports ASCII8 and ASCII16 mappers
+	and this executed megarom images perfectly.
 
 SPECIFICATIONS
 		- full MSX-DOS2 support
