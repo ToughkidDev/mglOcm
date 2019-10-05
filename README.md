@@ -2,7 +2,7 @@
 rom file loader for 1chipMSX(KdL firmware machine) 
 
 
-mglOCM is a MSX ROM loader for the  "KdL firmware's OneChip MSX"
+- mglOCM is a MSX ROM loader for the  "KdL firmware's OneChip MSX"
  that allows you to run msx rom cartridge images (like Konami-SCC, ASCII-8 and ASCII-16, 8, 16, 32k, linear rom files)
  on your device without setting any DIP switches or mapper patches.
 
@@ -22,7 +22,9 @@ ABOUT
 	load to rom image will complete supports ASCII8 and ASCII16 mappers
 	and this executed megarom images perfectly.
 
+
 SPECIFICATIONS
+
 		- full MSX-DOS2 support
 		- Konami Mapper with SCC
 		- ASCII 8 kB Mapper
@@ -30,13 +32,17 @@ SPECIFICATIONS
 		- 2 romimages load to OCM's internal memory slots.
 
 USAGE
+
 		- MSXDOS2 must be loaded to run mglOcm.com
+		
 		- Youtube Video Link 
-		- https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
+		  https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
 
 Examples:
+
 		- a:\roms> mglOcm gradius2.rom
 		- a:\roms> mglOcm bublbobl.rom
+
 
 ...And more some command line options are as below.
 
@@ -52,9 +58,11 @@ Examples:
 		- /d = back to DOS after loading
 
 REQUIREMENTS
+
 		- MSX-DOS2, KdL firmware of v3.1 and over.
 
 CONTACT
+
 		- "mglOcm" is written by ToughkidCST
 		- toughkiddev@gmail.com
 
