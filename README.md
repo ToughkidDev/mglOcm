@@ -25,18 +25,19 @@ ABOUT
 
 SPECIFICATIONS
 
-		- full MSX-DOS2 support
+		- Full MSX-DOS2, Nextor  support
 		- Konami Mapper with SCC
 		- ASCII 8 kB Mapper
 		- ASCII 16 kB Mapper
-		- 2 romimages load to OCM's internal memory slots.
+		- Dualromimages load to OCM's internal memory slots.
 
 USAGE
 
 		- MSXDOS2 must be loaded to run mglOcm.com
 		
-		- Youtube Video Link 
-		  https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
+ Youtube Video Link 
+ https://www.youtube.com/watch?v=oNPzevBzs64&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=80
+
 
 Examples:
 
@@ -63,8 +64,8 @@ REQUIREMENTS
 
 CONTACT
 
-		- "mglOcm" is written by ToughkidCST
-		- toughkiddev@gmail.com
+- "mglOcm" is written by ToughkidCST
+- toughkiddev@gmail.com
 
 
 
