@@ -2,9 +2,14 @@
 rom file loader for 1chipMSX(KdL firmware machine) 
 
 
-- 'mglOcm' is a MSX ROM loader for the  "KdL firmware's OneChip MSX"
- that allows you to run msx rom cartridge images (like Konami-SCC, ASCII-8 and ASCII-16, 8, 16, 32k, linear rom files)
- on your device without setting any DIP switches or mapper patches.
+### 'mglOcm' is a MSX ROM loader for the  "KdL firmware's OneChip MSX"
+ 
+ 	that allows you to run msx rom cartridge images 
+	(like Konami-SCC, ASCII-8 and ASCII-16, 8, 16, 32k, linear rom files)
+ 	on your device without setting any DIP switches or mapper patches.
+
+![1ChipMSX](mglOcm.jpg)
+
 
 Rom Loader for 1Chip MSX - 'mglOcm' v2.0370b (release date 2019/04/12)
 
