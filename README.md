@@ -191,6 +191,11 @@ Korean
   	2. ex)    mglOcm.com gradius1.rom twinbee.rom 
     	슬롯1번에 gradius1 삽입효과,  슬롯2번에 twinbee 삽입효과
 
+
+## Youtube Video Link - mglOcm, mglUx 코나미게임 합성 효과 즐기기 
+ - https://www.youtube.com/watch?v=g5yTJ_7XwyQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=3
+ 
+ 
 - 사용환경 
  	KDL의 MSX2+ 기반 펌웨어 3.1이상.  모든 OCM환경내 MSX-DOS2이상. 
 
