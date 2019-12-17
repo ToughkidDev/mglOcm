@@ -25,6 +25,10 @@ v2.0370b :
 	if you using 'mglOcm' in load to rom image will complete supports ASCII8 and ASCII16 mappers
 	and this executed megarom images perfectly.
 
+
+### 1ChipMSX - Zemmix Neo 
+![1ChipMSX](ZemmixNeo.jpg)
+
 ### 1ChipMSX - IQ3000 
 ![1ChipMSX](mglOcm.jpg)
 
