@@ -197,8 +197,6 @@ Korean
 
 
 ## Youtube Video Link - mglOcm, mglUx 코나미게임 합성 효과 즐기기 
- - https://www.youtube.com/watch?v=g5yTJ_7XwyQ&list=PLlD0W14KLTkpq5dnONr_U6fAUWuyGliEw&index=3
-  
 [![mglOcm, mglUx 코나미게임 합성 효과 즐기기](https://yt-embed.herokuapp.com/embed?v=g5yTJ_7XwyQ )](https://youtu.be/g5yTJ_7XwyQ "mglOcm, mglUx 코나미게임 합성 효과 즐기기 ")
 
  
