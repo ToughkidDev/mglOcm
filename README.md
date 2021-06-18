@@ -32,6 +32,9 @@ v2.0370b :
 ### 1ChipMSX - IQ3000 
 ![1ChipMSX](mglOcm.jpg)
 
+### 1ChipMSX - SM-X 
+![1ChipMSX](SM-X.jpg)
+
 
 
 ## SPECIFICATIONS
