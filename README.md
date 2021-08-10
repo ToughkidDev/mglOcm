@@ -70,6 +70,7 @@ v2.0370b :
 		- /r = execute with alternative method
 		- /t = Z80b 5.37MHz V9958 Fast mode
 		- /k = Konami 2nd Cartridge secret option
+		- /m = Sony Inside-Magic Key option
 		- /j = set Japanese keyboard layout
 		- /d = back to DOS after loading
 
