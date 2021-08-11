@@ -217,4 +217,19 @@ Korean
      		그 외 특수 칩을 사용해 특수기능이 내장된 롬팩게임의 구동은 보장하지 않습니다. 
 
 
+## Youtube Video Link - mglOcm,  "Sony Inside(裏) Magic Key" support
+[![mglOcm, Sony Inside(裏) Magic Key support](https://yt-embed.herokuapp.com/embed?v=Vgrt5NiHgw0 )](https://youtu.be/Vgrt5NiHgw0 "Sony Inside(裏) Magic Key ")
+
+ 
+- 사용환경 
+ 	KDL의 MSX2+ 기반 펌웨어 3.1이상.  모든 OCM환경내 MSX-DOS2이상. 
+
+- 주의사항 
+	
+	 	1. 'mglOcm'은 여러가지의 이유로 특정 상황을 지원하기 위해 
+    		** 패치 변형된 롬파일에 대해서는 정상적인 실행을 보장하지 않습니다. 
+   		원본 롬파일을 사용해 주시기 바랍니다. 
+ 
+  		2. 롬파일중 롬팩내에 s-ram과 같이 내부 밧데리 백업기능을 내장하고 있었거나, 
+     		그 외 특수 칩을 사용해 특수기능이 내장된 롬팩게임의 구동은 보장하지 않습니다. 
 		
