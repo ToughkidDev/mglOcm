@@ -64,4 +64,4 @@ I ask for your support so that
 - Original Game Developer TAITO 1986
 - VGM Sound module by Grauw - Re-Play                           
   Laurens Holst : He helped me with really great and effective VGM module.
-- Transplanted by ToughkidCST 
+- Transplanted & Programmed by ToughkidCST 
