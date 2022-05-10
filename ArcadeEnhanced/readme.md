@@ -54,7 +54,8 @@ I ask for your support so that
 
 앞으로 몇개의 아쉬운 MSX판 이식작들에 대해서도 추가 작업을 즐겁게 해나갈 수 있도록 응원을 부탁드립니다. 
 
-## MSX2 Enhanced Credits:
+
+## Credits:
 
 - Composer: Hisayoshi Ogura
 - Original Game Developer TAITO 1986
