@@ -25,7 +25,7 @@
 
 ![MSX KIKI KAIKAI 4 Emulator Users](KIKIonOpenMSX.png)
 
-
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/4VX24i" title="KIKIonOpenMSX"><img src="https://live.staticflickr.com/65535/52063631126_729e08ea86.jpg" width="500" height="401" alt="KIKIonOpenMSX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
     There is a saying that ‘Music is half the Game’.   
     No matter how good a game is, if the BGM is not good, the game will look cheap. 
