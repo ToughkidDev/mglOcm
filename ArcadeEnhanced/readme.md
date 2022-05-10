@@ -23,9 +23,7 @@
 	When using the emulator, you can use it after inserting the SFG-01 or SFG-05 into any slot.
 	에뮬레이터 사용시에는 아래와 같이 SFG-01 또는 SFG-05를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
-![MSX KIKI KAIKAI 4 Emulator Users](KIKIonOpenMSX.png)
-
-<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/4VX24i" title="KIKIonOpenMSX"><img src="https://live.staticflickr.com/65535/52063631126_729e08ea86.jpg" width="500" height="401" alt="KIKIonOpenMSX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/4VX24i" title="KIKIonOpenMSX"><img src="https://live.staticflickr.com/65535/52063631126_729e08ea86.jpg" width="500" height="401" alt="KIKIonOpenMSX"></a>
 
     There is a saying that ‘Music is half the Game’.   
     No matter how good a game is, if the BGM is not good, the game will look cheap. 
