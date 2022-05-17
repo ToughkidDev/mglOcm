@@ -1,5 +1,5 @@
 # MSX2 Scramble Formation 
-#		(스크램블 포메이션 スクランブル・フォーメーション)
+		(스크램블 포메이션 スクランブル・フォーメーション)
 ### MSX2 Scramble Formation Arcade Enhanced Version 1.0
 
 
