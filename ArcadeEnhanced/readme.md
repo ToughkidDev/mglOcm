@@ -24,7 +24,7 @@
 	When using the emulator, you can use it after inserting the SFG-01 or SFG-05 into any slot.
 	에뮬레이터 사용시에는 아래와 같이 SFG-01 또는 SFG-05를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/4VX24i" title="KIKIonOpenMSX"><img src="https://live.staticflickr.com/65535/52063631126_729e08ea86.jpg" width="500" height="401" alt="KIKIonOpenMSX"></a>
+<a data-flickr-embed="true" href="https://www.youtube.com/watch?v=5kZbxzW9JDk" title="KIKIonOpenMSX"><img src="https://live.staticflickr.com/65535/52063631126_729e08ea86.jpg" width="500" height="401" alt="KIKIonOpenMSX"></a>
 https://www.youtube.com/watch?v=5kZbxzW9JDk
 
     There is a saying that ‘Music is half the Game’.   
