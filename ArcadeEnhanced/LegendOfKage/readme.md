@@ -8,12 +8,12 @@
 
 
 
-	- MSX2 or higher (with Ram 64k VRAM 128k) 
+	- MSX1 or higher (with Ram 16k) 
  
-	- Legend of Kage (카게의 전설 影の伝説)'s arcade original is made for YM2203 (OPN).
+	- Legend of Kage (카게의 전설 影の伝説)'s arcade original is made for YM2203x2 (OPNx2).
 
-	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N1(YM2610-OPNB), 
-	  MAKOTO(YM2608-OPNA), which can cover YM2203 (OPN)
+	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and 眞NEOTRON-B(YM2610B), 
+	  MAKOTO(YM2608-OPNA), which can cover YM2203x2 (OPNx2)
 
 	- ASCII 8 Mapper
 
