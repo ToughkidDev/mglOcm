@@ -24,8 +24,9 @@
 	When using the emulator, you can use it after inserting the SFG-01 or SFG-05 into any slot.
 	에뮬레이터 사용시에는 아래와 같이 SFG-01 또는 SFG-05를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
-<a data-flickr-embed="true" href="https://www.youtube.com/watch?v=C7C5Si6l70I" title="스크린샷 2022-05-17 오후 6.19.00"><img src="https://live.staticflickr.com/65535/52080158180_483770d93d.jpg" width="500" height="401" alt="스크린샷 2022-05-17 오후 6.19.00"></a>
-https://www.youtube.com/watch?v=C7C5Si6l70I
+<a data-flickr-embed="true" href="https://youtu.be/oKlz7wvUiMA" title="스크린샷 2022-05-25 오전 9.42.21"><img src="https://live.staticflickr.com/65535/52097828180_6d1e140c2c.jpg" width="500" height="401" alt="스크린샷 2022-05-25 오전 9.42.21"></a>
+https://www.youtube.com/watch?v=oKlz7wvUiMA
+
 
 
 
