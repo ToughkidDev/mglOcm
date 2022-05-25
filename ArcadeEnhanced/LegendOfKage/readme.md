@@ -1,16 +1,16 @@
-## MSX2 Scramble Formation (스크램블 포메이션 スクランブル・フォーメーション)
-### MSX2 Scramble Formation Arcade Enhanced Version 1.0
+## MSX Legend of Kage (카게의 전설 影の伝説)
+### MSX Legend of Kage Arcade Enhanced Version 1.0
 
 
 ## Video demostration
 
-[![MSX Scramble Formation (스크램블 포메이션 スクランブル・フォーメーション) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=-FMkd4vgoHE)](https://youtu.be/-FMkd4vgoHE "MSX Scramble Formation (스크램블 포메이션 スクランブル・フォーメーション) 아케이드 강화판을 만들어 보았다. ")
+[![MSX Legend of Kage (카게의 전설 影の伝説) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=BCyFXiUXR8A)](https://youtu.be/BCyFXiUXR8A "MSX Legend of Kage (카게의 전설 影の伝説) 아케이드 강화판을 만들어 보았다. ")
 
 
 
 	- MSX2 or higher (with Ram 64k VRAM 128k) 
  
-	- Scramble Formation's arcade original is made for YM2203 (OPN).
+	- Legend of Kage (카게의 전설 影の伝説)'s arcade original is made for YM2203 (OPN).
 
 	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N1(YM2610-OPNB), 
 	  MAKOTO(YM2608-OPNA), which can cover YM2203 (OPN)
@@ -43,8 +43,3 @@ I ask for your support so that
   Laurens Holst : He helped me with really great and effective VGM module.
 - Transplanted & Programmed by ToughkidCST 
 
-
-
-### ----------------------------   WIP Next Project.  
-
-<a data-flickr-embed="true" href="https://youtu.be/1iFG9kcDu-Q" title="스크린샷 2022-05-16 오후 9.04.38"><img src="https://live.staticflickr.com/65535/52079798386_38ce999f5c.jpg" width="500" height="381" alt="스크린샷 2022-05-16 오후 9.04.38"></a> https://youtu.be/1iFG9kcDu-Q
