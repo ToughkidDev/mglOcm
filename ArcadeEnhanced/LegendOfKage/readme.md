@@ -2,7 +2,7 @@
 ### MSX Legend of Kage Arcade Enhanced Version 1.0
 
 
-## Video demostration
+## Video demonstration
 
 [![MSX Legend of Kage (카게의 전설 影の伝説) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=BCyFXiUXR8A)](https://youtu.be/BCyFXiUXR8A "MSX Legend of Kage (카게의 전설 影の伝説) 아케이드 강화판을 만들어 보았다. ")
 
