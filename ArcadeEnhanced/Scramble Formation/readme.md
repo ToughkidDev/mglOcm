@@ -2,7 +2,7 @@
 ### MSX2 Scramble Formation Arcade Enhanced Version 1.0
 
 
-## Video demostration
+## Video demonstration
 
 [![MSX Scramble Formation (스크램블 포메이션 スクランブル・フォーメーション) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=-FMkd4vgoHE)](https://youtu.be/-FMkd4vgoHE "MSX Scramble Formation (스크램블 포메이션 スクランブル・フォーメーション) 아케이드 강화판을 만들어 보았다. ")
 
