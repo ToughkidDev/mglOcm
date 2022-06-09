@@ -14,6 +14,7 @@
 	- Bubble Bobble (버블보블 - バブルボブル)'s arcade original is made for YM3526 + YM2203 (OPL + OPN).
 
 	- This MSX Enhanced version supports MSX MoonSound(OPL4) Cartridge which can cover YM3526 (OPL)
+	  ( OPL4 ShockWave, DALSORI(달소리),  Wozblaster & Enhanced, MSX-Blaster OPL4, Monster Sound FM Blaster, etc...)  
  
 	- ASCII 8 Mapper
 
@@ -21,9 +22,9 @@
 
 ## Notes:
 
-	  When using the emulator, you can use it after inserting the MoonSound into any slot.
+	When using the emulator, you can use it after inserting the MoonSound into any slot.
 	
-    에뮬레이터 사용시에는 아래와 같이 'MoonSound'를 슬롯에 삽입한 후에 실행시켜 주십시요. 
+    	에뮬레이터 사용시에는 아래와 같이 'MoonSound'를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
 <a data-flickr-embed="true" href="https://youtu.be/oKlz7wvUiMA" title="스크린샷 2022-05-25 오전 9.42.21"><img src="https://live.staticflickr.com/65535/52097828180_6d1e140c2c.jpg" width="500" height="401" alt="스크린샷 2022-05-25 오전 9.42.21"></a>
 https://www.youtube.com/watch?v=oKlz7wvUiMA
