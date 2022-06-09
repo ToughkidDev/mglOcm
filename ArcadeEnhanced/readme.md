@@ -51,7 +51,10 @@ https://www.youtube.com/watch?v=5kZbxzW9JDk
     비록 Smooth Scroll이나 그래픽적 업그레이드와 같은 거창한 것은 아니지만, 
     나름 게임의 분위기를 크게 끌어올릴 수 있다고 느껴 작업을 시작하게 되었습니다. 
 
-
+    Please let us know about any problems you find while playing using the 'Issues' bulletin board here.
+    플레이시 발견되는 문제점은 이곳 '이슈'게시판을 이용하여 알려주시기 바랍니다. 
+    
+    
 I ask for your support so that 
             I can continue to work on a few disappointing MSX version of arcade games in the future.
 
