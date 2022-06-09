@@ -31,10 +31,11 @@ https://www.youtube.com/watch?v=oKlz7wvUiMA
 
     The sound part of this game made for arcade uses two sound chips, YM3526 (OPL) and YM2203 (OPN).
     The BGM of the last boss on stage 100 may sound awkward.
-    This is a problem caused by forcibly converting songs made with YM2203 for MoonSound, so there is room for improvement.
+    This is peculiarly a problem caused by forcibly converting a 100-stage theme song made with YM2203 for MoonSound, 
+    so there is room for improvement.
     아케이드용으로 만들어진 이 게임의 사운드부분은 특이하게도 YM3526(OPL)과 YM2203(OPN) 두개의 사운드칩을 사용하고 있으므로 
     100스테이지의 마지막 보스의 BGM이 어색하게 들릴 수 있습니다. 
-    이는 YM2203으로 만들어진 곡을 MoonSound용으로 강제로 변환하면서 생긴 문제이므로 개선의 여지가 있습니다. 
+    이는 특이하게도 YM2203으로 만들어진 100스테이지의 테마곡을 MoonSound용으로 강제로 변환하면서 생긴 문제이므로 개선의 여지가 있습니다. 
   
     Fixed a bug where the ending song of the original MSX version of Bubble Bobble was not played.
     원래 MSX버젼의 버블보블이 가지고 있던 엔딩곡이 플레이되지 않는 버그를 해결하였습니다. 
