@@ -27,6 +27,8 @@
 <a data-flickr-embed="true" href="https://www.youtube.com/watch?v=C7C5Si6l70I" title="스크린샷 2022-05-17 오후 6.19.00"><img src="https://live.staticflickr.com/65535/52080158180_483770d93d.jpg" width="500" height="401" alt="스크린샷 2022-05-17 오후 6.19.00"></a>
 https://www.youtube.com/watch?v=C7C5Si6l70I
 
+	Please let us know about any problems you find while playing using the 'Issues' bulletin board here.
+    	플레이시 발견되는 문제점은 이곳 '이슈'게시판을 이용하여 알려주시기 바랍니다. 
 
 
 I ask for your support so that 
