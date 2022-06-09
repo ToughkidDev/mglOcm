@@ -25,7 +25,7 @@
     When using the emulator, you can use it after inserting the MoonSound into any slot.
     에뮬레이터 사용시에는 아래와 같이 'MoonSound'를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
-<a data-flickr-embed="true" href="https://youtu.be/oKlz7wvUiMA" title="스크린샷 2022-06-09 오후 6.00.58"><img src="https://live.staticflickr.com/65535/52134066690_708900cdc1.jpg" width="500" height="401" alt="스크린샷 2022-06-09 오후 6.00.58"></a>
+<a data-flickr-embed="true" href="https://youtu.be/cKfgM8XWFp8" title="스크린샷 2022-06-09 오후 6.00.58"><img src="https://live.staticflickr.com/65535/52134066690_708900cdc1.jpg" width="500" height="401" alt="스크린샷 2022-06-09 오후 6.00.58"></a>
 https://www.youtube.com/watch?v=cKfgM8XWFp8
 
     The sound part of this game made for arcade uses two sound chips, YM3526 (OPL) and YM2203 (OPN).
