@@ -5,8 +5,8 @@
 
 ## Video demonstration
 
-[![MSX Legend of Kage (카게의 전설 影の伝説) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=9xPjwFJwgWE)](https://youtu.be/9xPjwFJwgWE "MSX Legend of Kage (카게의 전설 影の伝説) 아케이드 강화판을 만들어 보았다. ")
 
+<a data-flickr-embed="true" href="https://www.youtube.com/watch?v=9xPjwFJwgWE" title="스크린샷 2022-06-10 오전 10.29.07"><img src="https://live.staticflickr.com/65535/52135380509_417eb0d478.jpg" width="500" height="380" alt="스크린샷 2022-06-10 오전 10.29.07"></a>
 
 
 	- MSX2 or higher (with RAM64k VRAM64K) 
