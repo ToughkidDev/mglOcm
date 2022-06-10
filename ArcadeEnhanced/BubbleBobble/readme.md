@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=cKfgM8XWFp8
     MSX버젼에서 게임의 처리에 오버헤드가 걸리면 BGM이 느려지는 문제점을 이 Arcade BGM Enhanced 버젼도 여전히 가지고 있습니다. 
     이러한 문제를 해결하기 위해 독립적인 타이머를 통해 BGM을 처리하는 것을 고려하고 있습니다. 
   
-    Please let us know about any problems you find while playing using the 'Issues' bulletin board here.
+    Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     플레이시 발견되는 문제점은 이곳 '이슈'게시판을 이용하여 알려주시기 바랍니다. 
   
 
