@@ -36,7 +36,10 @@ https://www.youtube.com/watch?v=cKfgM8XWFp8
     100스테이지의 마지막 보스의 BGM이 어색하게 들릴 수 있습니다. 
     이는 전반적으로 BGM을 처리하던 YM3526을 사용하지 않고 특이하게도 SFX를 담당하던 YM2203으로 만들어진 100스테이지의 테마곡을 
     이 Arcade BGM Enhanced버전을 위해 MoonSound용으로 강제로 변환하면서 생긴 문제이므로 개선의 여지가 있습니다. 
-  
+    
+    Due to the above reasons, there may be some parts that sound awkward due to the VGM data that is not well trimmed.
+    같은 이유로 잘 다듬어지지 않은 VGM Data들로 인하여 어색하게 들리는 부분이 있을 수 있습니다. 
+      
     Fixed a bug where the ending song of the original MSX version of Bubble Bobble was not played.
     원래 MSX버젼의 버블보블이 가지고 있던 엔딩곡이 플레이되지 않는 버그를 해결하였습니다. 
   
