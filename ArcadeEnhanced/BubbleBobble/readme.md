@@ -33,7 +33,7 @@ v1.1 (20220611) -
     
     Applied the Enhanced version made by gdx(v0.96) that improved some problems of the original.
     원작의 몇가지 문제점을 개선한 gdx씨가 만든 Enhanced 버젼을 적용하였습니다. 
-    속도의 개선이 있으므로 v1.1(20220611)을 패치 적용하시는 것을 권장합니다. 
+    속도의 개선이 있습니다.   v1.1(20220611)을 패치 적용하시는 것을 적극 권장합니다. 
 
 v1.0 (20220610) -
     
