@@ -28,6 +28,15 @@
 <a data-flickr-embed="true" href="https://youtu.be/cKfgM8XWFp8" title="스크린샷 2022-06-09 오후 6.00.58"><img src="https://live.staticflickr.com/65535/52134066690_708900cdc1.jpg" width="500" height="401" alt="스크린샷 2022-06-09 오후 6.00.58"></a>
 https://www.youtube.com/watch?v=cKfgM8XWFp8
 
+
+v1.1 (20220611) - 
+    
+    Applied the Enhanced version made by gdx(v0.96) that improved some problems of the original.
+    원작의 몇가지 문제점을 개선한 gdx씨가 만든 Enhanced 버젼을 적용하였습니다. 
+    속도의 개선이 있으므로 v1.1(20220611)을 패치 적용하시는 것을 권장합니다. 
+
+v1.0 (20220610) -
+    
     The sound part of this game made for arcade uses two sound chips, YM3526 (OPL) and YM2203 (OPN).
     The BGM of the last boss on stage 100 may sound awkward.
     This is peculiarly a problem caused by forcibly converting a 100-stage theme song made with YM2203 for MoonSound, 
