@@ -23,9 +23,8 @@
 	When using the emulator, you can use it after inserting the SFG-01 or SFG-05 into any slot.
 	에뮬레이터 사용시에는 아래와 같이 SFG-01 또는 SFG-05를 슬롯에 삽입한 후에 실행시켜 주십시요. 
 
-<a data-flickr-embed="true" href="https://www.youtube.com/watch?v=5kZbxzW9JDk" title="KIKIonOpenMSX"><img src="https://live.staticflickr.com/65535/52063631126_729e08ea86.jpg" width="500" height="401" alt="KIKIonOpenMSX"></a>
-https://www.youtube.com/watch?v=5kZbxzW9JDk
-
+<a data-flickr-embed="true" href="https://youtu.be/E0lt0Ie0_GA" title="Arkanoid 2 Revenge of DOH"><img src="https://live.staticflickr.com/65535/52169917790_79afc1e92e.jpg" width="500" height="401" alt="Arkanoid 2 Revenge of DOH"></a> https://youtu.be/E0lt0Ie0_GA
+    
     There is a saying that ‘Music is half the Game’.   
     No matter how good a game is, if the BGM is not good, the game will look cheap. 
     I first encountered this game in arcade a long time ago and I really enjoyed it.  
