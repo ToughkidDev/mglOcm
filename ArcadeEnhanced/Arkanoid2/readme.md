@@ -4,8 +4,7 @@
 
 ## Video demonstration
 
-[![MSX 기기괴계(奇々怪界 KIKI KAIKAI) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=DvM3JTCmEI0)](https://www.youtube.com/watch?v=DvM3JTCmEI0 "MSX 기기괴계(奇々怪界 KIKI KAIKAI) 아케이드 강화판을 만들어 보았다. ")
-
+[![MSX 기기괴계(奇々怪界 KIKI KAIKAI) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=avoc9JjLFzs)](https://www.youtube.com/watch?v=avoc9JjLFzs "MSX 기기괴계(奇々怪界 KIKI KAIKAI) 아케이드 강화판을 만들어 보았다. ")
 
 
 	- MSX2 or higher (with Ram 64k VRAM 128k) 
