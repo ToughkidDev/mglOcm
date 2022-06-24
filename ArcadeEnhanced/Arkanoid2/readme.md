@@ -1,5 +1,5 @@
-# MSX2 奇々怪界 (기기괴계 Kiki Kaikai)
-### MSX2 奇々怪界 (기기괴계 Kiki Kaikai) Arcade Enhanced Version 1.0
+# MSX2 Arkanoid II - Revenge of DOH
+### MSX2 Arkanoid II - Revenge of DOH Arcade BGM Enhanced Version 1.0
 
 
 ## Video demonstration
@@ -9,7 +9,7 @@
 
 	- MSX2 or higher (with Ram 64k VRAM 128k) 
  
-	- KIKIKAIKAI's arcade original is made for YM2203 (OPN).
+	- Arkanoid II - Revenge of DOH's arcade original is made for YM2203 (OPN).
 
 	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N1(YM2610-OPNB), 
 	  MAKOTO(YM2608-OPNA), which can cover YM2203 (OPN)
