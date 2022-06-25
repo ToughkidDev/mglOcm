@@ -53,7 +53,7 @@ I ask for your support so that
 ## Credits:
 
 - Composer: Hisayoshi Ogura
-- Original Game Developer TAITO 1986
+- Original Game Developer TAITO 1987
 - VGM Sound module by Grauw - Re-Play                           
   Laurens Holst : He helped me with really great and effective VGM module.
 - Transplanted & Programmed by ToughkidCST 
