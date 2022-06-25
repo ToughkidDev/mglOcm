@@ -4,7 +4,7 @@
 
 ## Video demonstration
 
-[![MSX Arkanoid 2 Arcade BGM Enhanced main title](https://yt-embed.herokuapp.com/embed?v=avoc9JjLFzs)](https://www.youtube.com/watch?v=avoc9JjLFzs "MSX Arkanoid 2 Arcade BGM Enhanced main title ")
+[![MSX Arkanoid 2 Arcade BGM Enhanced main title](https://yt-embed.herokuapp.com/embed?v=lZf2j9udsEM)](https://www.youtube.com/watch?v=lZf2j9udsEM "MSX Arkanoid 2 Arcade BGM Enhanced main title ")
 
 
 	- MSX2 or higher (with Ram 64k VRAM 128k) 
