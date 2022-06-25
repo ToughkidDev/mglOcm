@@ -28,7 +28,7 @@
    
 v1.0 (20220625) -
    	
-	1. A track included in the official track but not used in the Arcade version was used 
+	1. A track included in the official arcade's track but not used in the Arcade version was used 
 	   as the Main Title Theme this patch.
 	   공식트랙에는 포함되어 있으나 Arcade 버전에서 사용되지 않았던 트랙을 이번에 Main Title Theme으로 사용하였습니다. 
 	
