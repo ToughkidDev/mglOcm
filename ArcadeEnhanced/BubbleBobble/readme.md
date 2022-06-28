@@ -28,6 +28,13 @@
 <a data-flickr-embed="true" href="https://youtu.be/cKfgM8XWFp8" title="스크린샷 2022-06-09 오후 6.00.58"><img src="https://live.staticflickr.com/65535/52134066690_708900cdc1.jpg" width="500" height="401" alt="스크린샷 2022-06-09 오후 6.00.58"></a>
 https://www.youtube.com/watch?v=cKfgM8XWFp8
 
+
+v1.3 (20220629) - 
+
+    1. Removed possibility of music stopping when running 'CONTINUE' after "GAME OVER".
+    2. Various bugs have been fixed.
+
+
 v1.2 (20220617) - 
 
     1. Fixed hiccups in some music.
