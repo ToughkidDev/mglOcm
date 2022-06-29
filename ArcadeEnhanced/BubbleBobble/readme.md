@@ -1,6 +1,6 @@
 
 ## MSX2 Bubble Bobble (버블보블 - バブルボブル)
-### MSX2 Bubble Bobble Arcade BGM Enhanced Version 1.0
+### MSX2 Bubble Bobble Arcade BGM Enhanced Version 1.3 (20220629)
 
 
 ## Video demonstration
