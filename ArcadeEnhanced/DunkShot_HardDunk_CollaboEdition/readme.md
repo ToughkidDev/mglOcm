@@ -46,7 +46,7 @@ v1.0 (20221125) -
          there is no application software such as games for the reason that it was not used in the MSX generation.
     However, I wanted to see how it was applied to a game, taking advantage of the high specifications 
          and low load on MSX as an independent process, 
-	 so it was carried out as part of the existing "Arcade BGM Enhanced" project.  
+		so it was carried out as part of the existing "Arcade BGM Enhanced" project.  
     The VGM used here was released by Laurens Holst (Grauw), 
           and I used the VGM Module Re-Play he created.
        
