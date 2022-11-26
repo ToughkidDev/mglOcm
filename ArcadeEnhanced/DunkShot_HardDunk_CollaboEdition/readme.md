@@ -48,7 +48,7 @@ v1.0 (20221125) -
          and low load on MSX as an independent process, 
 	 so it was carried out as part of the existing "Arcade BGM Enhanced" project.  
     The VGM used here was released by Laurens Holst (Grauw), 
-         and he used the VGM Module Re-Play he created.
+          and I used the VGM Module Re-Play he created.
        
     이 프로젝트는 Sega의 아케이드에서 명성을 떨쳤던 사운드 시스템인 Sega MultiPCM을 MSX의 게임에 적용하는 것에 대한 결과물입니다. 
     After Burner, Outrun, 데이토나USA 등에서 통칭 SegaPCM으로 크게 알려진 이 사운드 시스템의 하이버젼인 MultiPCM32가 사용된 
@@ -57,6 +57,7 @@ v1.0 (20221125) -
     MSX세대에서 활용되지 못한 이유로 게임등의 응용소프트웨어가 전무하지만
     고사양이고 독립적인 프로세스로 MSX에 부하가 적은 점을 이용해 게임에 응용한 모습을 상정하고 싶었기 때문에 
     기존의 "Arcade BGM Enhanced" 프로젝트의 일환으로 진행하게 되었습니다. 
+    VGM을 릴리즈해주시고 도움을 주신 Laurens Holst (Grauw)께 감사드립니다. 
         
     Since it is a multi-channel PCM format, the size of BGM data increases. Ascii 8 mapper 1024kB 
           (about the same capacity as KOEI's Romance of the Three Kingdoms 2) is required.
