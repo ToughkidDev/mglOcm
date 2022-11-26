@@ -16,7 +16,12 @@
  
 	- ASCII 8 Mapper Megarom (975kB)
 
+	- For IPS Patch use this original ROM:
 
+		SHA-1 e7d9d1e4dcf48779dab41eb6c15478f934bd8bc1
+		MD5   d440664792946c7d9c4e6489c04b3d4f
+		GoodMSX RomFileName  - Dunk Shot (1986) (Hal) (J) [a1].rom
+		TosecMSX RomFileName - Dunk Shot (1986)(HAL Laboratory)(JP)[a].rom	
 
 ## Notes:
 
