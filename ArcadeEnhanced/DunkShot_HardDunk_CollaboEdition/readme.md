@@ -27,7 +27,7 @@
 
     When using the emulator, you can use it after inserting the MoonSound into any slot.
     에뮬레이터 사용시에는 아래와 같이 'MoonSound'를 슬롯에 삽입한 후에 실행시켜 주십시요. 
-
+ 
 <a data-flickr-embed="true" href="https://youtu.be/sihMccoAiog" title="openmsx dunkshot"><img src="https://live.staticflickr.com/65535/52519965351_f65d184d81.jpg" width="500" height="363" alt="openmsx dunkshot"></a>
 https://www.youtube.com/watch?v=sihMccoAiog
 
