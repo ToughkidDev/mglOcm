@@ -33,6 +33,17 @@ https://www.youtube.com/watch?v=sihMccoAiog
 
 
 
+
+---------------------------------------------------------------------------------------------------------
+
+
+v1.0 Alternative (20221209) - 
+
+    Alternative version released.
+    Choose according to your taste in BGM and enjoy.
+   
+<a data-flickr-embed="true" href="https://youtu.be/e45e2I0n0tA" title="스크린샷 2022-12-09 오후 8.28.53"><img src="https://live.staticflickr.com/65535/52552813415_d3630a8f56.jpg" width="320" height="246" alt="스크린샷 2022-12-09 오후 8.28.53"></a>
+	
 v1.0 (20221125) -
     
     This project is the result of experiments on applying Sega MultiPCM, 
