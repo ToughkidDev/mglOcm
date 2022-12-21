@@ -29,7 +29,8 @@ https://www.youtube.com/watch?v=uh4hVbyEQsc
 
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
-    	플레이시 발견되는 문제점은 이곳 '이슈'게시판을 이용하여 알려주시기 바랍니다. 
+    	
+플레이시 발견되는 문제점은 이곳 '이슈'게시판을 이용하여 알려주시기 바랍니다. 
 
 
 I ask for your support so that 
