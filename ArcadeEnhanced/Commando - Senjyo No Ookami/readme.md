@@ -4,8 +4,8 @@
 
 ## Video demonstration
 
-[![MSX Commando (전장의 늑대 戦場の狼 - Senjyo no Ookami ) 아케이드 강화판을 만들어 보았다.](https://yt-embed.herokuapp.com/embed?v=BCyFXiUXR8A)](https://youtu.be/uh4hVbyEQsc "MSX Commando (전장의 늑대 戦場の狼 - Senjyo no Ookami ) ")
-
+<a data-flickr-embed="true" href="https://youtu.be/uh4hVbyEQsc" title="스크린샷 2022-12-15 오후 5.10.23"><img src="https://live.staticflickr.com/65535/52576441206_a43ec5bcd4.jpg" width="500" height="281" alt="스크린샷 2022-12-15 오후 5.10.23"></a>
+https://www.youtube.com/watch?v=uh4hVbyEQsc
 
 
 	- MSX1 or higher (with Ram 16k) 
