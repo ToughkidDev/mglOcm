@@ -16,7 +16,13 @@ https://www.youtube.com/watch?v=uh4hVbyEQsc
 	which can cover YM2203x2 (OPNx2 , 8CHs)
  
 	- ASCII 8 Mapper
+	
+	- For IPS Patch use this original ROM:
 
+		SHA-1 2b255c3e5615b2f5e2365419a35e4115a060e93c
+		MD5   0feb4713cac3a4ed491363259f9d163b
+		GoodMSX RomFileName  - Senjyo no Ookami (1987)(Ascii)(J).rom
+		
 
 
 ## Notes:
