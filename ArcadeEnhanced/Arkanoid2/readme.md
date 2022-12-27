@@ -15,7 +15,7 @@
 	- Arkanoid II - Revenge of DOH's arcade original is made for YM2203 (OPN).
 
 	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N (YM2610-OPNB), 
-	  MAKOTO(YM2608-OPNA), which can cover YM2203 (OPN)
+		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203 (OPN)
 
         - ASCII 8 Mapper
 
