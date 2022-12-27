@@ -17,6 +17,9 @@
 	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and NEOTRON, OSC 1N (YM2610-OPNB), 
 	  MAKOTO(YM2608-OPNA), which can cover YM2203 (OPN)
 
+        - This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and 眞NEOTRON-B(YM2610B OPNB-B), 
+                MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
+		
 	- ASCII 8 Mapper
 
 
