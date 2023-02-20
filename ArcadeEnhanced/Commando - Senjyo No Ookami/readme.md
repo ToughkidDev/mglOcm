@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=uh4hVbyEQsc
  
 	- Commando (전장의 늑대 戦場の狼 - Senjyo no Ookami )'s arcade original is made for YM2203x2 (OPNx2).
 
-	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and 眞NEOTRON-B(YM2610B OPNB-B), 
+	- This MSX Enhanced version supports SFG-01(YM2151-OPM),  SFG-05(YM2164-OPP) and 眞NEOTRON-B(YM2610B OPNB-B), 
 		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
  
 	- ASCII 8 Mapper
