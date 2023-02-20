@@ -12,7 +12,7 @@
  
 	- Legend of Kage (카게의 전설 影の伝説)'s arcade original is made for YM2203x2 (OPNx2).
 
-	- This MSX Enhanced version supports SFG-01,  SFG-05(YM2151-OPM) and 眞NEOTRON-B(YM2610B OPNB-B), 
+	- This MSX Enhanced version supports SFG-01(YM2151-OPM),  SFG-05(YM2164-OPP) and 眞NEOTRON-B(YM2610B OPNB-B), 
 		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
  
 	- ASCII 8 Mapper
