@@ -8,7 +8,7 @@ https://youtu.be/eXti8EvcSd8
 	- MSX1 or higher (with Ram 16k) 
  
 	- This MSX Enhanced version supports SFG-01(YM2151-OPM),  SFG-05(YM2164-OPP) and 眞NEOTRON-B(YM2610B OPNB-B), 
-		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
+		MAKOTO(YM2608-OPNA SoundCartridge)
  
 	- ASCII 8 Mapper
 	
