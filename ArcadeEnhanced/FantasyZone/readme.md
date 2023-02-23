@@ -14,9 +14,9 @@ https://youtu.be/eXti8EvcSd8
 	
 	- For IPS Patch use this original ROM:
 
-		SHA-1 
-		MD5   
-		GoodMSX RomFileName  - 
+		SHA-1 	- 048737f995eecb1dd8dd341d750efd005267796f
+		MD5	- 27b5d76f266e5a480b68ecb866adf0d3 
+		GoodMSX RomFileName  - Fantasy Zone 1 (1986) (Pony Cannon) (J).rom 
 		
 
 
@@ -28,12 +28,15 @@ https://youtu.be/eXti8EvcSd8
 <a data-flickr-embed="true" href="https://youtu.be/BMuMxqKZebU?t=65" title="ookamiopenmsx 복사"><img src="https://live.staticflickr.com/65535/52577012300_fe94111a2e.jpg" width="500" height="402" alt="ookamiopenmsx 복사">
 https://youtu.be/BMuMxqKZebU?t=65
 
+Ver 1.0 - 
+
+1. Used Super Fantasy zone(MD) for MSX version Ending credits.
+2. Replaced the final boss song "Ya-Da-Yo (Round8)" with "Ya-Da-NE (MD)".
+3. Due to the limited capacity of the MSX Megarom, the quality of some songs may differ slightly from that of Arcade version. 
+    I ask for your understanding.
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
-플레이시 발견되는 문제점은 이곳 '이슈'게시판을 이용하여 알려주시기 바랍니다. 
-
-
 I ask for your support so that 
             I can continue to work on a few disappointing MSX version of arcade games in the future.
 
