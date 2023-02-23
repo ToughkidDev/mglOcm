@@ -30,10 +30,11 @@ https://www.youtube.com/watch?v=1sf7HKnPbGk
 
 Ver 1.0 - 
 
-1. Used Super Fantasy zone(MD) for MSX version Ending credits.
-2. Replaced the final boss song "Ya-Da-Yo (Round8)" with "Ya-Da-NE (MD)".
-3. Due to the limited capacity of the MSX Megarom, the quality of some songs may differ slightly from that of Arcade version. 
+1. Replaced the final boss song "Ya-Da-Yo (Round8)" with "Ya-Da-NE (MD)".
+2. Due to the limited capacity of the MSX Megarom, the quality of some songs may differ slightly from that of Arcade version. 
     I ask for your understanding.
+3. Used Super Fantasy zone(MD) for MSX version Ending credits.
+
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
