@@ -28,6 +28,11 @@ https://www.youtube.com/watch?v=1sf7HKnPbGk
 
 Ver 1.0 - 
 
+	1. It contains the hit songs of Konami game music that dominated the 1980s.
+	2. A total of 32 songs for each stage of over 10 Konami games.
+	3. If there is a good response,I will consider Vol. 2
+	
+		
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
 I ask for your support so that 
