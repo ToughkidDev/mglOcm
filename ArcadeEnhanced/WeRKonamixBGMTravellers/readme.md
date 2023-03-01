@@ -38,7 +38,7 @@ I ask for your support so that
 
 ## Credits:
 
-- Composer: Various Artist (Konami)
+- Composer: Various Artists (Konami)
 - Original Game Developer Konami
 - VGM Sound module by Grauw - Re-Play                           
   Laurens Holst : He helped me with really great and effective VGM module.
