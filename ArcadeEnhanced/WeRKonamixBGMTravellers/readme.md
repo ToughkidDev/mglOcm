@@ -12,9 +12,9 @@
 	
 	- For IPS Patch use this original ROM:
 
-		SHA-1 	- 
-		MD5	- 
-		GoodMSX RomFileName  - 
+		SHA-1 	- a84608f1c2fe1aea1a8a586f2e335cb64bb951fc
+		MD5	- 94620318823a2aeb024a8db03e96d823
+		GoodMSX RomFileName  - Super Cobra (1983) (Konami) (J).rom
 		
 
 
