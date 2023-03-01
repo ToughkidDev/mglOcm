@@ -1,6 +1,7 @@
 
 ### MSX We'R Konamix BGM Travellers Vol. 1
 
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/4H88h51i0g" title="WeRKonamixBGMTravellersVol1"><img src="https://live.staticflickr.com/65535/52719282649_2b43fa7110_z.jpg" width="640" height="428" alt="WeRKonamixBGMTravellersVol1"></a>
 
   - MSX1 or higher (with Ram 32k) 
  
