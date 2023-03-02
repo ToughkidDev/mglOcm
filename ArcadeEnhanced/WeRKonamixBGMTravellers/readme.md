@@ -12,11 +12,11 @@
 	
 	- For IPS Patch use this original ROM:
 
-		SHA-1 	- ****a84608f1c2fe1aea1a8a586f2e335cb64bb951fc
+		SHA-1 	- a84608f1c2fe1aea1a8a586f2e335cb64bb951fc
 		
-		MD5	- ****94620318823a2aeb024a8db03e96d823
+		MD5	- 94620318823a2aeb024a8db03e96d823
 		
-		GoodMSX RomFileName  - **Super Cobra (1983) (Konami) (J).rom**
+		GoodMSX RomFileName  - __Super Cobra (1983) (Konami) (J).rom__
 		
 		<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/5a778Yw649" title="WeRKonamixBGMTravellersVol1_SuperCobra 복사"><img src="https://live.staticflickr.com/65535/52720858068_35b24d9156_w.jpg" width="400" height="268" alt="WeRKonamixBGMTravellersVol1_SuperCobra 복사"></a>
 
