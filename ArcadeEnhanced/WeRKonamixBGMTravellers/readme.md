@@ -18,6 +18,7 @@
 		
 		GoodMSX RomFileName  - Super Cobra (1983) (Konami) (J).rom
 		
+		<a data-flickr-embed="true" href="https://www.flickr.com/gp/toughkidcst/5a778Yw649" title="WeRKonamixBGMTravellersVol1_SuperCobra 복사"><img src="https://live.staticflickr.com/65535/52720858068_35b24d9156_w.jpg" width="400" height="268" alt="WeRKonamixBGMTravellersVol1_SuperCobra 복사"></a>
 
 
 ## Notes:
