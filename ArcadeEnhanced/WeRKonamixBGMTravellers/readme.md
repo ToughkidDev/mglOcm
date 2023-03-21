@@ -1,6 +1,10 @@
 
 ## MSX We'R Konamix BGM Travellers Vol. 1
 
+
+This project is a demonstration of MSX's flagship sound cartridge, YAMAHA SFG series, 
+  and an 80's Music album that pays tribute to KONAMI's game BGM.
+
 ### Video demonstration
 <a data-flickr-embed="true" href="https://www.youtube.com/watch?v=SoqR5xhNvSA" title="WeRKonamixBGMTravellersVol1"><img src="https://live.staticflickr.com/65535/52719282649_2b43fa7110_z.jpg" width="640" height="428" alt="WeRKonamixBGMTravellersVol1"></a>
 
