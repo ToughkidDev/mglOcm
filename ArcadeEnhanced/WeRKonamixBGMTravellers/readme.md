@@ -6,7 +6,7 @@ This project is a demonstration of MSX's flagship sound cartridge, YAMAHA SFG se
   and an 80's Music album that pays tribute to KONAMI's game BGM.
 
 ### Video demonstration
-<a data-flickr-embed="true" href="https://www.youtube.com/watch?v=SoqR5xhNvSA" title="WeRKonamixBGMTravellersVol1"><img src="https://live.staticflickr.com/65535/52719282649_2b43fa7110_z.jpg" width="640" height="428" alt="WeRKonamixBGMTravellersVol1"></a>
+<a data-flickr-embed="true" href="https://www.youtube.com/watch?v=dqCiyUhUpnE" title="WeRKonamixBGMTravellersVol1"><img src="https://live.staticflickr.com/65535/52719282649_2b43fa7110_z.jpg" width="640" height="428" alt="WeRKonamixBGMTravellersVol1"></a>
 
   - MSX1 or higher (with Ram 32k) 
  
