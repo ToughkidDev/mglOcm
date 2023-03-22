@@ -14,7 +14,7 @@ https://youtu.be/YSRcR3ghFl4
 	
 	- For IPS Patch use this original ROM:
 
-    SHA-1 	- e31ac6520e912c27ce96431a1dfb112bf71cb7b9
+    	SHA-1 	- e31ac6520e912c27ce96431a1dfb112bf71cb7b9
 		MD5	- 25c0349164616a7540faa04dcc90237a 
 		GoodMSX RomFileName  - Gradius (1986) (Konami) (J).rom
 
