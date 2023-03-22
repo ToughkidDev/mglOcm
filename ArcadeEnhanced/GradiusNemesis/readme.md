@@ -3,6 +3,7 @@
 
 
 ## Video demonstration
+<a data-flickr-embed="true" href="https://youtu.be/YSRcR3ghFl4" title="스크린샷 2023-02-25 오후 2.36.39 복사"><img src="https://live.staticflickr.com/65535/52764217169_66ce01bc7c_z.jpg" width="640" height="360" alt="스크린샷 2023-02-25 오후 2.36.39 복사"/>
 https://youtu.be/YSRcR3ghFl4
 
 	- MSX1 or higher (with Ram 8k) 
