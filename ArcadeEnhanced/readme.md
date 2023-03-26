@@ -16,6 +16,12 @@
 		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
 
 	- ASCII 8 Mapper
+	
+	- For IPS Patch use this original ROM:
+
+	SHA-1 	- 6dd28797f9d1fe7cc041077ebe77d08f2ccc0937
+	MD5	- 7c981f0ddf3a459fb854c9b827061a44 
+	GoodMSX RomFileName  - Kikikaikai (1987) (Sony) (J).rom
 
 
 
