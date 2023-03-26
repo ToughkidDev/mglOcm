@@ -17,6 +17,14 @@
 
 	- ASCII 8 Mapper
 
+	- For IPS Patch use this original ROM:
+
+	SHA-1 	- 24384e63bfe450bce6abd327eae3e27969025379
+	MD5	- 5951dc047c5a102e9cf9e1a59d2596d2 
+	GoodMSX RomFileName  - Scramble Formation (1987) (Taito) (J).rom
+
+	
+
 
 
 ## Notes:
