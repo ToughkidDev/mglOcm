@@ -17,6 +17,12 @@
 	  ( OPL4 ShockWave, DALSORI(달소리),  Wozblaster & Enhanced, MSX-Blaster OPL4, Monster Sound FM Blaster, etc...)  
  
 	- ASCII 8 Mapper
+	
+	- For IPS Patch use this original ROM:
+
+		SHA-1 	- e73946f1f26589d77926276ca4f9dbee60c53fde
+		MD5	- bd8b1f6c998657b96bf7dc7825d0a600 
+		GoodMSX RomFileName  - Bubble Bobble (1987) (Taito) (J).rom
 
 
 
