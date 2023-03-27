@@ -16,6 +16,12 @@
 		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
  
 	- ASCII 8 Mapper
+	
+	- For IPS Patch use this original ROM:
+
+		SHA-1 	- ffc8c57b26f2f495bd77efac5b815efe9c25336c
+		MD5	- 8e59c543f38bf4ca3986e7117d68f87d 
+		GoodMSX RomFileName  - Kageno Densetsu (1986) (Taito) (J)
 
 
 
