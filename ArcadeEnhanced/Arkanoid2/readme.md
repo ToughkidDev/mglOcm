@@ -18,6 +18,12 @@
 		MAKOTO(YM2608-OPNA SoundCartridge), which can cover YM2203x2 (OPNx2 , 8CHs)
 		
 	- ASCII 8 Mapper
+	
+	- For IPS Patch use this original ROM:
+
+		SHA-1 	- 1642891b693df616f27431299352e1d7750ac94b
+		MD5	- 2d594d9ebfb36faba7eea3c6b4e55dc8 
+		GoodMSX RomFileName  - Arkanoid 2 (1987) (Taito) (J).rom
 
 
 
