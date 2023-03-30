@@ -18,10 +18,12 @@ https://youtu.be/YSRcR3ghFl4
     	SHA-1 	- e31ac6520e912c27ce96431a1dfb112bf71cb7b9
 		MD5	- 25c0349164616a7540faa04dcc90237a 
 		GoodMSX RomFileName  - Gradius (1986) (Konami) (J).rom
+		IPS file name - Gradius_BGM_Enhanced_20230331.ips  
 
 		SHA-1 	- f0e4168ea18188fca2581526c2503223b9a28581
 		MD5	- 1d19e90b3df492f0f1956747279fbbac 
 		GoodMSX RomFileName  - Gradius (1986) (Konami) (J) [a1].rom
+		IPS file name - Gradius_[A1]_BGM_Enhanced_20230331.ips  
 		
 
 ## Notes:
