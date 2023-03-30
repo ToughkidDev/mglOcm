@@ -36,6 +36,9 @@ Ver 1.0 -
 
 1. Stage 5, Bonus Stage, and Offgame Demo music, which only exist in the MSX version, were used as they were from MSX.
 2. For compatibility and convenience of loading, Konami Mapper has been modified to SCC Mapper, but SCC is not required.
+3. Press 'F1' to enter 'PAUSE' mode and enjoy BGM without SFX.   
+   When paused, I made sure not to stop so that you can enjoy the BGM.
+
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
