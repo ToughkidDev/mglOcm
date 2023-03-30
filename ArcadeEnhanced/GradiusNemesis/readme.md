@@ -38,7 +38,9 @@ Ver 1.0 -
 2. For compatibility and convenience of loading, Konami Mapper has been modified to SCC Mapper, but SCC is not required.
 3. Press 'F1' to enter 'PAUSE' mode and enjoy BGM without SFX.   
    When paused, I made sure not to stop so that you can enjoy the BGM.
-
+4. There is no problem with the combination functions with the 'TwinBee', 'Konami Game Master (コナミの１０倍カートリッジ)', 
+   so please enjoy it with peace of mind.
+   
 
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
     	
