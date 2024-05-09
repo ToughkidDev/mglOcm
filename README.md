@@ -218,7 +218,7 @@ Korean
 
 
 ## Youtube Video Link - mglOcm,  "Sony Inside(裏) Magic Key" support
-[![mglOcm, Sony Inside(裏) Magic Key support](https://yt-embed.herokuapp.com/embed?v=Vgrt5NiHgw0 )](https://youtu.be/Vgrt5NiHgw0 "Sony Inside(裏) Magic Key ")
+[![mglOcm, Sony Inside(裏) Magic Key support](SonyInsideMagicKey.jpg )](https://youtu.be/Vgrt5NiHgw0 "Sony Inside(裏) Magic Key ")
 
  
 - 사용환경 
