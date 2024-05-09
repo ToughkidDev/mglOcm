@@ -4,9 +4,9 @@
 
 ## Video demonstration
 
-[![MSX Arkanoid 2 Arcade BGM Enhanced main title](https://yt-embed.herokuapp.com/embed?v=E0lt0Ie0_GA)](https://www.youtube.com/watch?v=E0lt0Ie0_GA "MSX Arkanoid 2 Arcade BGM Enhanced main title ")
+[![MSX Arkanoid 2 Arcade BGM Enhanced main title](Trailer1.jpg)](https://www.youtube.com/watch?v=E0lt0Ie0_GA "MSX Arkanoid 2 Arcade BGM Enhanced main title ")
 
-[![MSX Arkanoid 2 Arcade BGM Enhanced main title](https://yt-embed.herokuapp.com/embed?v=lZf2j9udsEM)](https://www.youtube.com/watch?v=lZf2j9udsEM "MSX Arkanoid 2 Arcade BGM Enhanced main title ")
+[![MSX Arkanoid 2 Arcade BGM Enhanced main title](Trailer2.jpg)](https://www.youtube.com/watch?v=lZf2j9udsEM "MSX Arkanoid 2 Arcade BGM Enhanced main title ")
 
 
 
