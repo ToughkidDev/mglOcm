@@ -3,7 +3,7 @@
 
 
 ### Video demonstration
-<a data-flickr-embed="true" href="https://youtu.be/BIVSPm59v8E?si=CSQOpu1Nfb3Pz6-F" title="Castlevania NES for MSX2 BGM Enhanced" target="_blank"><img src="https://live.staticflickr.com/65535/54420611268_9f6ec69563_z.jpg" width="640" height="485" alt="Castlevania NES for MSX2 BGM Enhanced"></a>
+<a data-flickr-embed="true" href="https://youtu.be/BIVSPm59v8E?si=CSQOpu1Nfb3Pz6-F" target="_blank" title="Castlevania NES for MSX2 BGM Enhanced" ><img src="https://live.staticflickr.com/65535/54420611268_9f6ec69563_z.jpg" width="640" height="485" alt="Castlevania NES for MSX2 BGM Enhanced"></a>
 
   - MSX2 or higher (with Ram & Vram 64k) 
  
