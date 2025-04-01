@@ -30,8 +30,10 @@ https://www.youtube.com/watch?v=1sf7HKnPbGk
 
 Ver 1.0 - 
 
-	1. 
-	2. 
+	1. Projectiles like the cross and axe will no longer disappear when missed. 
+ 		I have addressed the long-standing feedback regarding the harsh penalty 
+                	that significantly reduced their usability. 
+	2. However, they will reset to the whip upon player death.
 	3. 
 	
 		
