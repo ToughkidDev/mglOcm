@@ -17,7 +17,7 @@
     		1. SHA-1 	- 5ef7d03b138a2023f6def241b671c666f97ed83b
     		2. MD5	- 92ba9dab3c7a4ac6c8a130f6ccbac91c
     		3. GoodMSX RomFileName  - Akumajyo Drakyula - Vampire Killer (1986) (Konami) (J).rom
-    	    4. 
+    	    4. IPS file name - CastleVania_Enhanced_20250403.ips
     	
 
 ## Notes: When using the emulator
@@ -34,7 +34,8 @@ Ver 1.0 -
  		I have addressed the long-standing feedback regarding the harsh penalty 
                 	that significantly reduced their usability. 
 	2. However, they will reset to the whip upon player death.
-	3. 
+	3. If the game over occurs multiple times, 
+		the Konami Game Master Cartridge Combination feature will be automatically activated.
 	
 		
 Please let me know about any problems you find while playing using the 'Issues' bulletin board here.
@@ -47,7 +48,7 @@ I ask for your support so that
 
 ## Credits:
 
-- Composer: Michiru Yamane (Konami) 
+- Music from Vampire Killer (MD) - Composer: [Michiru Yamane (Konami)](https://castlevania.fandom.com/wiki/Michiru_Yamane) 
 - Original Game Developer Konami
 - Castlevania NES for MSX - Manuel Pazos, Imanok 2016
 - VGM Sound module by Grauw - Re-Play                           
